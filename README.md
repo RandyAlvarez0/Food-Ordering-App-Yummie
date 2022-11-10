@@ -56,4 +56,25 @@ With this app users can order different dishes from all over the world; see them
 ## Wireframes
 <img src="Screen Shot 2022-11-09 at 10.10.53 PM.png" width=400><br>
 
+### Networking
+#### List of network requests by screen
+   - Dish Details Screen
+      - (Read/GET) Query dish by ID
+      - (POST) A dish order with users name 
+   - Order List Screen
+      - (GET) Ouery all orders
+   - Dish List Screen  
+      - (GET) Ouery all dishes in a category
+   
+
+##### Yummie API
+- Base URL [http://yummie.glitch.me]
+
+HTTP Verb | Endpoint | Description
+   ----------|----------|------------
+   | `GET`    | /dish-categories | get all categories |
+   | `GET`    | /dishes/:categoryId | return specific category of dishes by id |
+   | `POST`   | /orders/:dishId   | post a specific order |
+   | `GET`    | /orders | returnss all orders |
+
 
