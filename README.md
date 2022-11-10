@@ -54,6 +54,6 @@ With this app users can order different dishes from all over the world; see them
 * Food Category -> Dish List
 
 ## Wireframes
-<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
+<img src="1" width=800><br>
 
 
