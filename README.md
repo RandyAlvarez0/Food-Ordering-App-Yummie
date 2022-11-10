@@ -54,6 +54,6 @@ With this app users can order different dishes from all over the world; see them
 * Food Category -> Dish List
 
 ## Wireframes
-<img src="Screen Shot 2022-11-09 at 10.10.53 PM.png" width=200><br>
+<img src="Screen Shot 2022-11-09 at 10.10.53 PM.png" width=400><br>
 
 
