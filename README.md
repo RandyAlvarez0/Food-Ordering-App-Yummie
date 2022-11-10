@@ -1,5 +1,5 @@
 # Food-Ordering-App-Yummie
-Unit 8: Group Milestone
+Group Milestone
 ===
 
 # Yummie
