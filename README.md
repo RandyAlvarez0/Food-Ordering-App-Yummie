@@ -53,6 +53,9 @@ With this app users can order different dishes from all over the world; see them
 * Homepage -> Order List 
 * Food Category -> Dish List
 
+## User Stories
+- [x] Project Setup and Launch Screen
+
 ## Wireframes
 <img src="Screen Shot 2022-11-09 at 10.10.53 PM.png" width=400><br>
 
