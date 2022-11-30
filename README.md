@@ -56,8 +56,14 @@ With this app users can order different dishes from all over the world; see them
 ## User Stories
 - [x] Project Setup and Launch Screen
 - [x] Created the Onboarding Screen with multiple slides
+- [x] HomePage Setup with collection views
+- [x] Added shopping button
+- [x] Created the Onboarding Screen with multiple slides
 
-<img src="2.gif" width=170><br>
+head1| head2 
+--------|--------|
+| <img src="2.gif" width=170><br> | <img src="screen3.gif" width=170><br> |
+
 
 ## Wireframes
 <img src="Screen Shot 2022-11-09 at 10.10.53 PM.png" width=400><br>
