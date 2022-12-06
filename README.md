@@ -60,7 +60,7 @@ With this app users can order different dishes from all over the world; see them
 - [x] Added shopping button
 - [x] Created the Onboarding Screen with multiple slides
 
-head1| head2 
+Update1| Update2 
 --------|--------|
 | <img src="2.gif" width=170><br> | <img src="screen3.gif" width=170><br> |
 
